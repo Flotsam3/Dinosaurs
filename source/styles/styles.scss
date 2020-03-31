@@ -1,3 +1,16 @@
+@import '_variables';
+@import '_reset';
+$bg-colour: #fff8dc;
+$title-colour: #a52a2a;
+$bg-panel-blue: #d4d9e6;
+$bg-panel-green: #dbeed2;
+$bg-panel-red:#ffebe8;
+$bg-panel-yellow:#fafad2;
+$panel-data-colour: white;
+$data-height-colour: #add8e6;
+$data-weight-colour:#ff0000;
+
+
 body {
   background-color: #fff8dc;
   font-family: 'Courier New', Courier, monospace;
